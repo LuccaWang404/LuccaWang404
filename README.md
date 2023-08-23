@@ -3,11 +3,8 @@
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=750&lines=System.out.println(%22Hello%2C%20World%22);王憨憨同学祝您今天愉快!; Lucca Wang wish you a good day!;在校高中生一枚;A high school student&center=true&size=27" alt="Typing SVG" />
     </a></br>
     <img src="https://cdn.jsdelivr.net/gh/LuccaWang404/LuccaWang404/assets/img/16921216658016e37327c28905f715d6128421a9b069f8101.jpg"></br>
-    <b><h5>初来乍到，BUG难免，望轻喷</h5></b>
-</div>
-
-<div align="center">
     <h1><b>👋 你好！</b></h1>
+    <b><h5>初来乍到，BUG难免，望轻喷</h5></b>
 </div>
 
 <div align="center">
