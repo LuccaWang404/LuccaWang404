@@ -14,9 +14,7 @@
     <a href="https://www.zhihu.com/people/Jimmy-Wang-303"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>
 </div>
 
-<div align="center">
-    <h2><b>👋 你好！</h2></b>
-</div>
+<font size=10>👋 你好！</font>
 
 ***
 
