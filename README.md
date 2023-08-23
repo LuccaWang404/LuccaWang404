@@ -20,7 +20,7 @@
     <h1><b>👋 你好！</b></h1>
 </div>
 
-# 🎯 关于我
+## 🎯 关于我
 
 ### 🔅 名字
 
@@ -42,7 +42,7 @@
 
 我的梦想是就读于上海交通大学计算机系，我一定会努力实现这个梦想！
 
-### 🔧 我正在学习
+#### 🔧 我正在学习
 
 ![Android Badge](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=fff&style=flat)
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
@@ -50,7 +50,7 @@
 ![C Sharp Badge](https://img.shields.io/badge/C%20Sharp-239120?logo=csharp&logoColor=fff&style=flat)
 ![Java Badge](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=fff&style=flat)
 
-### ⏰ 我计划学习
+#### ⏰ 我计划学习
 
 ![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat)
 ![Qt Badge](https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=fff&style=flat)
@@ -64,7 +64,7 @@
 ![Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat)
 ![jQuery Badge](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff&style=flat)
 
-### 我常用的工具
+#### ⚙️ 我常用的工具
 
 ![Xiaomi Badge](https://img.shields.io/badge/Xiaomi-FF6900?logo=xiaomi&logoColor=fff&style=flat)
 ![Lenovo Badge](https://img.shields.io/badge/Lenovo-E2231A?logo=lenovo&logoColor=fff&style=flat)
