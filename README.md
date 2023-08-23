@@ -8,7 +8,7 @@
 </div>
 
 <div align="center">
-    <a href="wpa.qq.com/msgrd?v=3&uin=1547256170&site=qq&menu=yes"><img src="https://img.shields.io/badge/QQ-腾讯QQ-red" /></a>&emsp;
+    <a href="https://wpa.qq.com/msgrd?v=3&uin=1547256170&site=qq&menu=yes"><img src="https://img.shields.io/badge/QQ-腾讯QQ-red" /></a>&emsp;
     <a href="mailto:jh327063592@163.com"><img src="https://img.shields.io/badge/163Mail-网易邮箱-ff3333" /></a>&emsp;
     <a href="https://space.bilibili.com/477192506"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
     <a href="https://blog.csdn.net/qq_50246808"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
