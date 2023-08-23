@@ -12,11 +12,13 @@
     <a href="https://space.bilibili.com/477192506"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
     <a href="https://blog.csdn.net/qq_50246808"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
     <a href="https://www.zhihu.com/people/Jimmy-Wang-303"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>
-  </div>
+</div>
 
 <div align="center">
     <h1><b>👋 你好！</h1></b>
 </div>
+
+***
 
 ## 🎯 关于我
 
