@@ -15,7 +15,7 @@
 </div>
 
 <div align="center">
-    <font size=50>👋 你好！</font>
+    <font size=3>👋 你好！</font>
 </div>
 
 ***
