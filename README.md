@@ -65,6 +65,7 @@
 ![Lenovo Badge](https://img.shields.io/badge/Lenovo-E2231A?logo=lenovo&logoColor=fff&style=flat)
 ![ASUS Badge](https://img.shields.io/badge/ASUS-404040?logo=ASUS&logoColor=fff&style=flat)
 ![DELL Badge](https://img.shields.io/badge/DELL-404040?logo=DELL&logoColor=fff&style=flat)
+![Huawer Badge](https://img.shields.io/badge/Huawei-404040?logo=Huawei&logoColor=ff0000&style=flat)
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
 ![Android Badge](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=fff&style=flat)
 ![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)<br>
