@@ -18,8 +18,6 @@
     <a href="https://www.zhihu.com/people/Jimmy-Wang-303"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>
 </div>
 
-***
-
 ## 🎯 关于我
 
 ### 🔅 名字
