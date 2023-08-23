@@ -75,6 +75,39 @@
 ![Visual Studio Badge](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=flat)
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
 
+## ✨ 生活日常
+
+### 🌏 作息
+
+生活在`UTC+8`，作息时间却常常与`UTC-6`同步。
+生物钟长期紊乱，头发经常大量脱落。
+
+### ⚡️ 最近爱看的书籍
+
+- 《杀死一只知更鸟》
+- 《罗生门》
+- 《史记》
+- 《What if 1&2》
+- 《如何屠龙：中世纪英雄冒险指南》
+- 《几何原本》
+- 《如何解题》
+
+### ⭐️ 最近去过的地方
+
+- 三峡大坝
+- 恩施大峡谷-腾龙洞国家地质公园
+
+### 🎮 最近爱玩的游戏
+
+- 塞尔达传送：旷野之息
+- 塞尔达传说：王国之泪
+- 文明 VI
+- 战地风云 V
+- 战地风云 2042
+- 泰拉瑞亚
+- Minecraft
+- Wallpaper Engine
+- ~~3D Mark~~
 <img src="https://skillicons.dev/icons?i=ps,pr,blender,c,cpp,cs,java,python,visualstudio,idea,nginx,dotnet,git,github,gitlab" />
 
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /></div>
