@@ -75,6 +75,10 @@
 ![Visual Studio Badge](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=flat)
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
 
+<img src="https://skillicons.dev/icons?i=ps,pr,blender,c,cpp,cs,java,python,visualstudio,idea,nginx,dotnet,git,github,gitlab" />
+
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /></div>
+
 ## ✨ 生活日常
 
 ### 🌏 作息
@@ -101,6 +105,7 @@
 
 - 塞尔达传送：旷野之息
 - 塞尔达传说：王国之泪
+- 原神~~私服~~
 - 文明 VI
 - 战地风云 V
 - 战地风云 2042
@@ -108,9 +113,10 @@
 - Minecraft
 - Wallpaper Engine
 - ~~3D Mark~~
-<img src="https://skillicons.dev/icons?i=ps,pr,blender,c,cpp,cs,java,python,visualstudio,idea,nginx,dotnet,git,github,gitlab" />
 
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /></div>
+## 🛸 我的GitHub数据
+
+~~真难看可不是嘛，毕竟才注册这个号~~
 
 ![GitHub stats](https://metrics.lecoq.io/LuccaWang404?template=classic&config.timezone=Asia%2FShanghai&locale=cn&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
