@@ -76,7 +76,7 @@
 ![Adobe Premiere Pro Badge](https://img.shields.io/badge/Adobe%20Premiere%20Pro-1F0075?logo=adobepremierepro&logoColor=fff&style=flat)
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
 ![Visual Studio Badge](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=flat)
-![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)</br?
+![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)</br>
 ![NS Bagde](https://img.shields.io/badge/Nintendo%20Switch-E60012?logo=nintendoswitch&logoColor=fff&style=flat)
 ![Xbox Badge](https://img.shields.io/badge/Xbox-107C10?logo=xbox&logoColor=fff&style=flat)
 ![PS Badge](https://img.shields.io/badge/Playstation-0070D1?logo=playstation&logoColor=fff&style=flat)
