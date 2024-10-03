@@ -29,7 +29,9 @@
 
 我曾多次到中国移动的数据中心参观学习，收获了不少宝贵知识和运维经验。
 
-我现在担任湖北武汉华中师大一附中Renaissance CG社第十五代社长（A.K.A.十五代目），正带领着热爱计算机的同学们不断探索计算机科学的奥秘。
+我现在担任湖北武汉华中师大一附中Renaissance CG社第十五代社长（A.K.A.十五代目），
+
+正尽全力带领着热爱计算机的同学们不断探索计算机科学的奥秘！
 
 ### 🚀 梦想
 
@@ -126,8 +128,6 @@
 - ~~Blender 4.2 LTS~~
 
 ## 🛸 我的GitHub数据
-
-![GitHub stats](https://metrics.lecoq.io/LuccaWang404?template=classic&config.timezone=Asia%2FShanghai&locale=cn&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 ![Count](https://github-readme-stats.vercel.app/api?username=LuccaWang404&show_icons=true&locale=cn&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
