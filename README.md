@@ -127,4 +127,4 @@
 ## 🛸 我的GitHub数据
 ![lang](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LuccaWang404&theme=dark)![card](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LuccaWang404&theme=dark)
 ![detail](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuccaWang404&theme=dark)
-![Count](https://github-readme-stats.vercel.app/api?username=LuccaWang404&show_icons=true&locale=cn&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+[//]: (![Count](https://github-readme-stats.vercel.app/api?username=LuccaWang404&show_icons=true&locale=cn&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515))
