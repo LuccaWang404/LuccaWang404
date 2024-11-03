@@ -61,7 +61,6 @@
 
 #### ⚙️ 我常用的工具
 
-![Intel Badge](https://img.shields.io/badge/Intel-0068B6?logo=intel&logoColor=fff&style=flat)
 ![AMD Badge](https://img.shields.io/badge/AMD-F26A03?logo=amd&logoColor=fff&style=flat)
 ![Nvidia Badge](https://img.shields.io/badge/Nvidia-76B900?logo=nvidia&logoColor=fff&style=flat)
 ![Xiaomi Badge](https://img.shields.io/badge/Xiaomi-FF6900?logo=xiaomi&logoColor=fff&style=flat)
@@ -70,8 +69,7 @@
 ![DELL Badge](https://img.shields.io/badge/DELL-404040?logo=DELL&logoColor=fff&style=flat)
 ![Huawei Badge](https://img.shields.io/badge/Huawei-404040?logo=Huawei&logoColor=ff0000&style=flat)
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
-![Android Badge](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=fff&style=flat)
-![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)<br>
+![Android Badge](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=fff&style=flat)<br>
 ![Adobe Photoshop Badge](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=flat)
 ![Adobe Premiere Pro Badge](https://img.shields.io/badge/Adobe%20Premiere%20Pro-1F0075?logo=adobepremierepro&logoColor=fff&style=flat)
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
@@ -128,7 +126,9 @@
 
 ## 🛸 我的GitHub数据
 
-![Count](https://github-readme-stats.vercel.app/api?username=LuccaWang404&show_icons=true&locale=cn&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Count](https://github-readme-stats.vercel.app/api?username=LuccaWang404&show_icons=true&locale=cn&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)\
+![lang](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LuccaWang404&theme=dark)
+![detail](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuccaWang404&theme=dark)
 
 
 
