@@ -39,39 +39,28 @@
 
 #### 🔧 我正在学习
 
-![Android Badge](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=fff&style=flat)
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
+![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat)
 ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat)
 ![C Sharp Badge](https://img.shields.io/badge/C%20Sharp-239120?logo=csharp&logoColor=fff&style=flat)
 ![Java Badge](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=fff&style=flat)
+![Unity Badge](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=fff&style=flat)
 
 #### ⏰ 我计划学习
 
-![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat)
 ![Qt Badge](https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=fff&style=flat)
 ![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=fff&style=flat)
-![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
-![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
-![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat)
-![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat)
-![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
-![Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat)
-![jQuery Badge](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff&style=flat)
 
 #### ⚙️ 我常用的工具
 
 ![AMD Badge](https://img.shields.io/badge/AMD-F26A03?logo=amd&logoColor=fff&style=flat)
 ![Nvidia Badge](https://img.shields.io/badge/Nvidia-76B900?logo=nvidia&logoColor=fff&style=flat)
 ![Xiaomi Badge](https://img.shields.io/badge/Xiaomi-FF6900?logo=xiaomi&logoColor=fff&style=flat)
-![Lenovo Badge](https://img.shields.io/badge/Lenovo-E2231A?logo=lenovo&logoColor=fff&style=flat)
 ![ASUS Badge](https://img.shields.io/badge/ASUS-404040?logo=ASUS&logoColor=fff&style=flat)
 ![DELL Badge](https://img.shields.io/badge/DELL-404040?logo=DELL&logoColor=fff&style=flat)
-![Huawei Badge](https://img.shields.io/badge/Huawei-404040?logo=Huawei&logoColor=ff0000&style=flat)
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
 ![Android Badge](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=fff&style=flat)<br>
-![Adobe Photoshop Badge](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=flat)
-![Adobe Premiere Pro Badge](https://img.shields.io/badge/Adobe%20Premiere%20Pro-1F0075?logo=adobepremierepro&logoColor=fff&style=flat)
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
 ![Visual Studio Badge](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=flat)
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
@@ -85,13 +74,11 @@
 ## ✨ 生活日常
 
 ### 🌏 作息
-
-- 生活在`UTC+8`，作息时间却常常与`UTC-6`同步。
+- 生活在`UTC+8`，作息时间却常常与`UTC-8`同步。
 - 生物钟长期紊乱。
 - 被失眠问题折磨得死去活来。
 
-### ⚡️ 最近爱看的书籍
-
+### ⚡️ 最近爱看
 - 《杀死一只知更鸟》
 - 《罗生门》
 - 《史记》
@@ -103,24 +90,20 @@
 - ~~《信息学奥赛易学通数据结构》~~
 - ~~《高等数学同济版》~~
 
-### ⭐️ 最近去过的地方
-
+<!--### ⭐️ 最近去过
 - 三峡大坝
 - 恩施大峡谷-腾龙洞国家地质公园
 - ~~华中师大一附中一号教学楼~~
-- ~~华中师大一附中西科技楼~~
+- ~~华中师大一附中西科技楼~~-->
 
-### 🎮 最近爱玩的游戏
+### 🎮 最近爱玩
 
 - 塞尔达传送：旷野之息
 - 塞尔达传说：王国之泪
 - 黑神话：悟空
-- 文明 VI
-- 战地风云 V
-- 战地风云 2042
 - 泰拉瑞亚
 - Minecraft
-- Wallpaper Engine
+- 昆特3：狂赌
 - ~~3D Mark~~
 - ~~Blender 4.2 LTS~~
 
