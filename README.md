@@ -56,7 +56,7 @@
 ![Xiaomi Badge](https://img.shields.io/badge/Xiaomi-FF6900?logo=xiaomi&logoColor=fff&style=flat)
 ![ASUS Badge](https://img.shields.io/badge/ASUS-404040?logo=ASUS&logoColor=fff&style=flat)
 ![DELL Badge](https://img.shields.io/badge/DELL-404040?logo=DELL&logoColor=fff&style=flat)
-![NS Bagde](https://img.shields.io/badge/Nintendo%20Switch-E60012?logo=nintendoswitch&logoColor=fff&style=flat)
+![NS Bagde](https://img.shields.io/badge/Nintendo%20Switch%201&2-E60012?logo=nintendoswitch&logoColor=fff&style=flat)
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
 ![Android Badge](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=fff&style=flat)
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
