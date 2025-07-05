@@ -1,8 +1,6 @@
 <div align="center">
     <a href="https://github.com/LuccaWang404">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=750&lines=System.out.println(%22Hello%2C%20World%22);你好，世界！&center=true&size=27" alt="Typing SVG" />
-    </a></br>
-    <h1><b>👋 你好~！</b></h1>
+    <h1><b>👋 你好~！</b></h1></a>
 </div>
 
 <div align="center">
