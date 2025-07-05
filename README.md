@@ -1,6 +1,5 @@
 <div align="center">
-    <a href="https://github.com/LuccaWang404">
-    <h1><b>👋 你好~！</b></h1></a>
+    <h1><b>👋 你好~！</b></h1>
 </div>
 
 <div align="center">
