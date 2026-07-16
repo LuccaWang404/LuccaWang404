@@ -3,11 +3,11 @@
 </div>
 
 <div align="center">
-    <a href="https://wpa.qq.com/msgrd?v=3&uin=1547256170&site=qq&menu=yes"><img src="https://img.shields.io/badge/QQ-疼逊QQ-red" /></a>&emsp;
-    <a href="mailto:jh327063592@163.com"><img src="https://img.shields.io/badge/163Mail-枉异邮箱-ff3333" /></a>&emsp;
-    <a href="https://space.bilibili.com/477192506"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
-    <a href="https://blog.csdn.net/qq_50246808"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
-    <a href="https://www.zhihu.com/people/Jimmy-Wang-303"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>
+    <a href="https://wpa.qq.com/msgrd?v=3&uin=1547256170&site=qq&menu=yes"><img src="https://img.shields.io/badge/QQ-%E7%96%BC%E9%80%8AQQ-blue?style=for-the-badge&logo=QQ&logoColor=white" /></a>&emsp;
+    <a href="mailto:jh327063592@163.com"><img src="https://img.shields.io/badge/Mail-%E6%9E%89%E5%BC%82%E9%82%AE%E7%AE%B1-ff3333?style=for-the-badge" /></a>&emsp;
+    <a href="https://space.bilibili.com/477192506"><img src="https://img.shields.io/badge/B%E7%AB%99-Bilibili-ff96b4?style=for-the-badge&logo=Bilibili&logoColor=white" /></a>&emsp;
+    <a href="https://blog.csdn.net/qq_50246808"><img src="https://img.shields.io/badge/C%E7%AB%99-CSDN-c32136?style=for-the-badge&logo=csdn&logoColor=white" /></a>&emsp;
+    <a href="https://www.zhihu.com/people/Jimmy-Wang-303"><img src="https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-Zhihu-blue?style=for-the-badge&logo=Zhihu&logoColor=white" /></a>
 </div>
 
 ## 🎯 关于我
