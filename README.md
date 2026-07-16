@@ -102,6 +102,23 @@
 - ~~Blender 4.2 LTS~~
 
 ## 🛸 我的GitHub数据
-![lang](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LuccaWang404&theme=dark)![card](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LuccaWang404&theme=dark)
-![detail](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuccaWang404&theme=dark)
-<!--![Count](https://github-readme-stats.vercel.app/api?username=LuccaWang404&show_icons=true&locale=cn&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515))-->
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ayangweb-github-readme-stats.vercel.app/api?username=LuccaWang404&theme=vue-dark&show_icons=true&hide_border=true">
+          <source media="(prefers-color-scheme: light)" srcset="https://ayangweb-github-readme-stats.vercel.app/api?username=LuccaWang404&theme=vue&show_icons=true&hide_border=true">
+          <img src="https://ayangweb-github-readme-stats.vercel.app/api?username=LuccaWang404&theme=vue&show_icons=true&hide_border=true">
+        </picture>
+      </td>
+      <td>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ayangweb-github-readme-stats.vercel.app/api/top-langs/?username=LuccaWang404&theme=vue-dark&layout=compact&hide_border=true">
+          <source media="(prefers-color-scheme: light)" srcset="https://ayangweb-github-readme-stats.vercel.app/api/top-langs/?username=LuccaWang404&theme=vue&layout=compact&hide_border=true">
+          <img src="https://ayangweb-github-readme-stats.vercel.app/api/top-langs/?username=LuccaWang404&theme=vue&layout=compact&hide_border=true">
+        </picture>
+      </td>
+    </tr>
+  </tbody>
+</table>
